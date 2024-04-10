@@ -8,7 +8,6 @@ Let's connect and explore the fascinating world of programming together! 🌐
 P.S. - My code might not always be perfect, but hey, I'm still under construction.
 
 ###
-<img src="https://raw.githubusercontent.com/PRITESHJGUPTA/PRITESHJGUPTA/output/snake.svg" alt="Snake animation" />
 
 ###   
 <div align="center">
