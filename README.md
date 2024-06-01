@@ -37,6 +37,12 @@ Tech I've Got in My Back Pocket ::
   <a href="www.linkedin.com/in/pritesh-gupta-91664320b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRITESHJGUPTA&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
   <a href="https://twitter.com/Pritesh47736814" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
