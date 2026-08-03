@@ -46,13 +46,7 @@ AWS • Git • GitHub Actions
 
 React • HTML • CSS
 
----
-## GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PRITESHJGUPTA&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITESHJGUPTA&layout=compact&hide_border=true" />
-</p>
 
 ---
 
