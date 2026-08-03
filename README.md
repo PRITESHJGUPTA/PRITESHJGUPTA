@@ -1,66 +1,63 @@
-# Hi, I'm Pritesh Gupta
 
-Software Engineer focused on backend engineering, data engineering, and AI-powered applications.
+# Pritesh Gupta
 
-Currently building scalable software while exploring distributed systems and machine learning.
+**Software Engineer**
+
+Building backend systems, data engineering solutions, and AI applications through consistent, long-term projects.
 
 ---
 
-## About Me
+## About
 
-- Software Engineer based in India 
-- Interested in Backend Engineering, Data Engineering, AI, and System Design
-- Working primarily with Python, Java, Apache Spark and PostgreSQL
+I'm a Software Engineer focused on building reliable backend systems, scalable data pipelines, and practical AI applications.
+
+My primary interests are backend engineering, distributed systems and data engineering. This GitHub is a record of projects that reflect what I'm learning, building, and maintaining over time.
 
 ---
 
 ## Current Focus
 
-- Building production-quality backend applications
-- Learning distributed systems and scalable architectures
-- Exploring AI applications beyond prototypes
-- Contributing consistently through real-world projects
+- Backend Engineering
+- Data Engineering with Apache Spark
+- Distributed Systems
+- AI Applications
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
 Python • Java • SQL • JavaScript • C++
 
-### Backend
+**Backend**
 
 FastAPI • Spring Boot • REST APIs
 
-### Data
+**Data**
 
 Apache Spark • PostgreSQL • Pandas
 
-### Cloud & DevOps
+**Cloud & DevOps**
 
-AWS • Docker • Git • GitHub Actions
+AWS • Git • GitHub Actions
 
-### Frontend
+**Frontend**
 
 React • HTML • CSS
 
 ---
-
-## GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PRITESHJGUPTA&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITESHJGUPTA&layout=compact&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PRITESHJGUPTA&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITESHJGUPTA&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 ## Connect
 
-LinkedIn
-
-https://linkedin.com/in/priteshjgupta
+- LinkedIn: https://linkedin.com/in/priteshjgupta
+- Email: *priteshjgupta@gmail.com*
+```
